@@ -19,6 +19,7 @@ public class Main {
         
         System.out.println(newPerson.getName() + " has " + (newPerson.hasOldDog() ? "old" : "young") + " dog");
         
+        // Print old name
         System.out.println("Old name: " + dog.getName());
         
         // Try to change the dog's name
