@@ -1,9 +1,9 @@
-package test.java;
+package test.java.textpackage;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-import main.java.Dog;
+import main.java.mainpackage.Dog;
 
 public class DogTest {
 

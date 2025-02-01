@@ -1,10 +1,10 @@
-package test.java;
+package test.java.textpackage;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-import main.java.Dog;
-import main.java.Person;
+import main.java.mainpackage.Dog;
+import main.java.mainpackage.Person;
 
 public class PersonTest {
 
