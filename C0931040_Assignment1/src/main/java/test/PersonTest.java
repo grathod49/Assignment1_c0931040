@@ -1,9 +1,10 @@
-package com.assignment.test;
+package main.java.test;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
-import com.assignment.Person;
-import com.assignment.Dog;
+
+import main.java.Dog;
+import main.java.Person;
 
 public class PersonTest {
 

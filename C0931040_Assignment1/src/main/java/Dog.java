@@ -1,4 +1,4 @@
-package com.assignment;
+package main.java;
 
 public class Dog {
     private String name;

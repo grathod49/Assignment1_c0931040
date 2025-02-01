@@ -28,7 +28,7 @@ Instructions to Run the Code
 1. Clone the Repository:
 Clone the repository from GitHub using the following command:
 
-git clone https://github.com/grathod49/c0931040_java.git
+git clone https://github.com/grathod49/Assignment1_c0931040
 
 2. Open the Project in Eclipse:
 Launch Eclipse IDE.
