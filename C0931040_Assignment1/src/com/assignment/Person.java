@@ -5,7 +5,7 @@ import java.util.Optional;
 public class Person {
     private String name;
     private Integer age;
-    private Optional<Dog> dog;  // Optional to handle cases where a person doesn't have a dog
+    private Optional<Dog> dog;
 
     // Constructor for a person without a dog
     public Person(String name, Integer age) {
